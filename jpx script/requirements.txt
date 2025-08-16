@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+seaborn
+jupyter
+yfinance
+requests
+beautifulsoup4
+lxml
+openpyxl
+selenium
+webdriver-manager
+watchdog   
